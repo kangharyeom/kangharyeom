@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello,%20I'm%20"강하렴"&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Backend%20Engineer%20"강하렴"&fontSize=50)
   
 ### 🌱 Introduction 🌱
   I’m currently learning Java, Spring 
