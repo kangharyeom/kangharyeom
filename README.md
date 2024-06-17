@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Louis's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=KangHaryeom's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 
 <div align='center'> 🖥성장하는 주니어 백엔드 개발자입니다.</div>
