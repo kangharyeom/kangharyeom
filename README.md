@@ -13,23 +13,24 @@
 
 ## ⚒ Tech Stacks ⚒
 ### LANGUAGES
-  </p>
-<p align="center">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
-  </p>
- <p align="center">
+#### FrontEnd
+<Nav style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></Nav>
+<Nav style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></Nav>
+
+#### BackEnd
+<Nav style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></Nav>
+<Nav style="display: flex; align-items: flex-start;"><img src="https://img1.daumcdn.net/thumb/R300x0/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbOOwEr%2FbtrdSed6Dmb%2FkPQ69rnQYqGFOmjNcrMPdk%2Fimg.png" alt="icon" width="65" height="65" /></Nav>
+<Nav style="display: flex; align-items: flex-start;"><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZYQau%2FbtqJMvCrzlO%2FRtmwZekQC5ZjUtVjwXDt21%2Fimg.png" alt="icon" width="65" height="65" /></Nav>
+
    
-   ### DATABASE
-  </p>
-<p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-<img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
-  </p> 
+### DATABASE
+<Nav><img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg"></Nav>
+<Nav><img alt= "icon" wide="60" height="60" src ="https://img1.daumcdn.net/thumb/R300x0/?fname=https://t1.daumcdn.net/cfile/tistory/2366E84358EA426C1D"></Nav>
+<Nav><img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"></Nav>
   
 ### DEPLOY
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
-<br>
-<br>
+
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukina1418%2Fhit-counter&count_bg=%2321A03A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
