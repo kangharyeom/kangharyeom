@@ -9,7 +9,7 @@
 <br>
 <div align='center'> Email : kangharyeom@gmail.com</div>
 <div align='center'> Blog : <a href="https://findthelostedhobby.tistory.com">https://findthelostedhobby.tistory.com</a></div>
-<div align='center'> Resume : <a href="https://grizzly-paint-6fc.notion.site/32f52506fb944ea7bfbf982e91d0defe">강하렴의 이력서</a></div>
+<div align='center'> Resume : <a href="https://kangharyeom.notion.site/32f52506fb944ea7bfbf982e91d0defe?pvs=4">강하렴의 이력서</a></div>
 <br>
 
 ## ⚒ Tech Stacks ⚒
