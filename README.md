@@ -26,7 +26,6 @@
    
 ### DATABASE
 <Nav><img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg"></Nav>
-<Nav><img alt= "icon" wide="60" height="60" src ="https://img1.daumcdn.net/thumb/R300x0/?fname=https://t1.daumcdn.net/cfile/tistory/2366E84358EA426C1D"></Nav>
 <Nav><img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"></Nav>
   
 ### DEPLOY
